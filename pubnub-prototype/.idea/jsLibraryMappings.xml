@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/animator.js" libraries="{Node.js Globals}" />
+    <file url="file://$PROJECT_DIR$/controller.js" libraries="{Node.js Globals}" />
+    <file url="file://$PROJECT_DIR$/decoder.js" libraries="{Node.js Globals}" />
+    <file url="file://$PROJECT_DIR$/examples.js" libraries="{Node.js Globals}" />
+    <includedPredefinedLibrary name="Node.js Globals" />
+  </component>
+</project>
